@@ -1,1 +1,1 @@
-# IITD-BUDDY---Intelligent-Campus-Navigator
+# IITD-BUDDY--Intelligent-Campus-Navigator
